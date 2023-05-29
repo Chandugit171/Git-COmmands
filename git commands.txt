@@ -1,0 +1,36 @@
+git push commands
+(main)
+git init
+git add .
+git remote add origin (reporstrey link)
+git commit -m "any massage"
+git push origin main
+
+(master)
+git branch -M main
+
+
+
+
+git pull origin main
+or 
+git push origin main --rebase
+
+for create a branch to main branch
+
+
+
+For pulling code from main branch and create new branch to proced. 
+git init 
+git remote add origin (reprostry link)
+git pull origin (main) (depends on in git lab is either main or master)
+or creating new branch git branch branchname
+git checkout branchname
+
+
+
+
+
+Phind -for doubts code.
+
+
