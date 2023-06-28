@@ -28,9 +28,15 @@ or creating new branch git branch branchname
 git checkout branchname
 
 
-
+for getting all branches "git fetch--all"
 
 
 Phind -for doubts code.
 
+for flow charts use this tool 
+https://whimsical.com/fav-npm-packages-assignment-2nbvdiapBf1ghzvdWQuZeV
 
+
+https://www.figma.com/files/recent?fuid=1245244746927162323 tool for designing after whimsical.
+
+https://www.figma.com/proto/drltFyVq3CQVGPE58FE1R1/Grocery-App-UI-Kit---Community-(Community)?type=design&node-id=1-5204&scaling=min-zoom&page-id=1798%3A3663

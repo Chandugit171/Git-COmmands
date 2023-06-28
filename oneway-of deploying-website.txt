@@ -1,0 +1,8 @@
+1. First need to go GoDaddy official website.
+2. Second go to Webhosting.
+3. And then go to manage after that select Cpanel Admin.
+4. Select click to files section in that need to select file manager.
+5. Select public.html and delete everything from that.
+6. Before we are going to deploying we need to convert our local folder into Zipfile.
+7. After that upload that zip file into public.html.
+8. Extract the Zip file and delete it after unziping the files. 

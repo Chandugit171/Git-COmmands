@@ -1,0 +1,10 @@
+SAP Global icon
+Hovering not working properly as it is working outside of text.
+When we hover on the contact-us icon the need to display div content when we hovering outside the contact-us icon div need to hide.
+Services card alignment in mobile view.
+Industries alignment in mobile view.
+Contact-us section need to remove and it might placed inside of the contact-us icon.
+Team section alignment not working properly in mobile view.
+client section need to scroll individual and take ref. as SAP website.
+In carrer page need to add jobs and it's description (Simple like job appling portal).
+In the mobile view hamburger menu alignment is good but need to align comapny logo and company name image
