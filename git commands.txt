@@ -32,9 +32,16 @@ for getting all branches "git fetch--all"
 
 
 Phind -for doubts code.
+<<<<<<< HEAD
 
 for flow charts use this tool 
 https://whimsical.com/fav-npm-packages-assignment-2nbvdiapBf1ghzvdWQuZeV
+=======
+tools for use:
+Figma for moke designs
+whimsical for flowcharts.
+SourceCodeHero.com for any projects
+>>>>>>> 24e2c6877b15c235b770a3539358cfccdaa483f9
 
 
 https://www.figma.com/files/recent?fuid=1245244746927162323 tool for designing after whimsical.
