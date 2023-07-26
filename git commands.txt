@@ -30,6 +30,10 @@ git checkout branchname
 
 for getting all branches "git fetch--all"
 
+for suppose ur on a repo1 if u want to set the current code into a repo2 we can use this git-command
+` remote set-url origin <https-url>`
+
+
 
 Phind -for doubts code.
 <<<<<<< HEAD
