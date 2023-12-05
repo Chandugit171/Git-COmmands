@@ -9,8 +9,8 @@ git push origin main
 (master)
 git branch -M main
 
-
-
+ git merge --abort (pdf|mergeMain)
+once the above command run it will abort the existing branch.
 
 git pull origin main
 or 
